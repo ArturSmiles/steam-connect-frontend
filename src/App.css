@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.bg-dark{
+  background-color: #171a21 !important;
+}
+.navbar{
+  height: 10vh;
+}
+.container{
+  max-width: 100vw;
+}

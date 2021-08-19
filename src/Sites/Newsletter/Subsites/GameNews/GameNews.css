@@ -1,0 +1,21 @@
+.MuiAccordionSummary-root{
+    background-color: rgba(0, 0, 0, 0) !important;
+}
+.MuiAccordionDetails-root{
+    background-color: rgba(0, 0, 0, 0) !important
+}
+
+
+.jumbotron .container {
+    background-color: rgba(0, 0, 0, 0.233);
+}
+.MuiAccordionDetails-root img{
+    width: 100%;
+}
+.MuiAccordionDetails-root a{
+    color: black;
+}
+.MuiPaper-root{
+    background-color: #0000 !important;
+    color: white !important;
+}

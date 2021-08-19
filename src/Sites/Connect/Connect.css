@@ -1,0 +1,15 @@
+.ConnectMain{
+    background-color: #173953 ;
+    height: 100vh;
+    color: white;
+    overflow: hidden;
+}
+.CardCol{
+    padding-top: 5vh;
+    height: 100vh;
+}
+.SideBarCol{
+    background-color: #171a21cb;
+    padding: 0;
+    height: 100vh;
+}

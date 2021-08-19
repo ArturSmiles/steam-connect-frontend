@@ -1,0 +1,26 @@
+.NewsH{
+    background-color: #173953 ;
+    height: 100vh;
+    color: white;
+    overflow: hidden;
+}
+
+.SideBar{
+    background-color: #171a21cb;
+    height: 90vh;
+    padding: 0;
+}
+.MainNews{
+    height: 90vh;
+    overflow-y: scroll;
+}
+.CardCol{
+        margin-top: 1em;
+}
+.nav-link{
+    color:gray
+}
+.NavBarPic{
+    height: 5vh;
+    width: 5vh;
+}
